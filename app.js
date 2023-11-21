@@ -1,6 +1,5 @@
 const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@bot-whatsapp/bot')
 
-const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
@@ -73,7 +72,6 @@ const main = async () => {
         provider: adapterProvider,
         database: adapterDB,
     })
-    QRPortalWeb
 }
 
 main()
