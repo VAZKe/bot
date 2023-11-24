@@ -4,7 +4,8 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 const response1 = [    
-    'Te invito a que visites el siguiente enlace de nuestra página web donde encontrarás recursos para diferentes situaciones, permitiéndote gestionar el estrés y la ansiedad de manera precisa. https://posiivibess-saludmental.my.canva.site/recursos-actividades',
+    'Te invito a que visites el siguiente enlace de nuestra página web donde encontrarás recursos para diferentes situaciones, permitiéndote gestionar el estrés y la ansiedad de manera precisa.',
+    'https://posiivibess-saludmental.my.canva.site/recursos-actividades',
     'Para regresar al menú principal, escribe 👉 volver.'    
     ]
 
