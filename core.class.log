@@ -1,0 +1,43 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491161521916@s.whatsapp.net',
+    fromMe: false,
+    id: '4BCDF12F711ACB5D3ED8E96BA69343D1',
+    participant: undefined
+  },
+  messageTimestamp: 1700859725,
+  pushName: 'Facu ||VAZKe||',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ajdjd',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ajdjd',
+  from: '5491161521916'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b17913c6-1407-4259-b6dd-b9d1d27ad264',
+  keyword: 'key_026d7d36-7e80-4f07-b820-c5bf6e17df70',
+  answer: 'Lo siento, no entiendo 🤔. Por favor escriba "hola", para poder iniciar. Gracias',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '81652393d5ac9cf79d3a8eb209e4f3b9'
+}
